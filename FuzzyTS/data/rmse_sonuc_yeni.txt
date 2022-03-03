@@ -1,0 +1,306 @@
+-------------------------------------
+data/taiex_ready_2000.csv
+unit size: 4
+X_train.shape:  (194, 1, 21)
+y_train.shape:  (194, 1)
+X_test.shape:  (48, 1, 21)
+y_test.shape:  (48, 1)
+Bidirectional LSTM: mae: 2166.3358 rmse: 2201.2715
+LSTM: mae: 1990.7966 rmse: 2016.4390
+GRU: mae: 3025.8027 rmse: 3052.6107
+unit size: 8
+Bidirectional LSTM: mae: 2032.3847 rmse: 2072.1581
+LSTM: mae: 1836.2637 rmse: 1931.4307
+GRU: mae: 2210.6409 rmse: 2245.3062
+unit size: 16
+Bidirectional LSTM: mae: 1727.4514 rmse: 1745.4883
+LSTM: mae: 1451.9919 rmse: 1513.0534
+GRU: mae: 1936.1632 rmse: 1955.3804
+unit size: 32
+Bidirectional LSTM: mae: 2072.4747 rmse: 2095.7616
+LSTM: mae: 1985.4872 rmse: 2089.1218
+GRU: mae: 1421.2576 rmse: 1589.5060
+unit size: 50
+Bidirectional LSTM: mae: 1837.6009 rmse: 1855.7727
+LSTM: mae: 1685.5925 rmse: 1700.8007
+GRU: mae: 2329.2579 rmse: 2420.0551
+unit size: 64
+Bidirectional LSTM: mae: 1707.7557 rmse: 1781.0091
+LSTM: mae: 1407.3029 rmse: 1486.2706
+GRU: mae: 2303.4845 rmse: 2339.1764
+unit size: 100
+Bidirectional LSTM: mae: 1850.5674 rmse: 1904.6646
+LSTM: mae: 1671.0077 rmse: 1691.4931
+GRU: mae: 1700.0031 rmse: 1718.8290
+-------------------------------------
+data/taiex_ready_2001.csv
+unit size: 4
+X_train.shape:  (191, 1, 21)
+y_train.shape:  (191, 1)
+X_test.shape:  (48, 1, 21)
+y_test.shape:  (48, 1)
+Bidirectional LSTM: mae: 454.3273 rmse: 568.4097
+LSTM: mae: 470.6555 rmse: 616.8163
+GRU: mae: 373.8810 rmse: 445.9852
+unit size: 8
+Bidirectional LSTM: mae: 345.0339 rmse: 457.2764
+LSTM: mae: 479.7265 rmse: 613.1908
+GRU: mae: 446.0618 rmse: 515.4325
+unit size: 16
+Bidirectional LSTM: mae: 458.3045 rmse: 554.0054
+LSTM: mae: 503.9509 rmse: 659.5281
+GRU: mae: 401.7936 rmse: 470.8556
+unit size: 32
+Bidirectional LSTM: mae: 428.1048 rmse: 530.2011
+LSTM: mae: 445.9749 rmse: 587.9517
+GRU: mae: 413.8785 rmse: 477.7244
+unit size: 50
+Bidirectional LSTM: mae: 391.7575 rmse: 443.9244
+LSTM: mae: 473.3446 rmse: 609.4969
+GRU: mae: 464.1794 rmse: 579.3407
+unit size: 64
+Bidirectional LSTM: mae: 399.5912 rmse: 455.6613
+LSTM: mae: 471.7951 rmse: 594.8287
+GRU: mae: 278.1580 rmse: 335.9425
+unit size: 100
+Bidirectional LSTM: mae: 398.6529 rmse: 449.4060
+LSTM: mae: 453.9224 rmse: 569.5249
+GRU: mae: 381.5724 rmse: 472.3283
+-------------------------------------
+data/taiex_ready_2002.csv
+unit size: 4
+X_train.shape:  (196, 1, 21)
+y_train.shape:  (196, 1)
+X_test.shape:  (49, 1, 21)
+y_test.shape:  (49, 1)
+Bidirectional LSTM: mae: 298.0052 rmse: 308.9739
+LSTM: mae: 120.7746 rmse: 143.4452
+GRU: mae: 217.4672 rmse: 239.3604
+unit size: 8
+Bidirectional LSTM: mae: 165.0715 rmse: 187.6817
+LSTM: mae: 65.6197 rmse: 77.2626
+GRU: mae: 226.8919 rmse: 270.2534
+unit size: 16
+Bidirectional LSTM: mae: 203.5571 rmse: 218.8004
+LSTM: mae: 221.6529 rmse: 233.6005
+GRU: mae: 192.8422 rmse: 236.9241
+unit size: 32
+Bidirectional LSTM: mae: 309.8008 rmse: 320.5644
+LSTM: mae: 117.4369 rmse: 135.2271
+GRU: mae: 269.4884 rmse: 304.7577
+unit size: 50
+Bidirectional LSTM: mae: 131.1379 rmse: 148.9173
+LSTM: mae: 221.9809 rmse: 235.0239
+GRU: mae: 329.9546 rmse: 342.0935
+unit size: 64
+Bidirectional LSTM: mae: 194.2309 rmse: 216.5161
+LSTM: mae: 179.4802 rmse: 204.7925
+GRU: mae: 245.5972 rmse: 260.2994
+unit size: 100
+Bidirectional LSTM: mae: 206.7425 rmse: 228.7332
+LSTM: mae: 97.1771 rmse: 116.2155
+GRU: mae: 257.2481 rmse: 278.0080
+-------------------------------------
+data/taiex_ready_2003.csv
+unit size: 4
+X_train.shape:  (197, 1, 21)
+y_train.shape:  (197, 1)
+X_test.shape:  (49, 1, 21)
+y_test.shape:  (49, 1)
+Bidirectional LSTM: mae: 952.5603 rmse: 955.1637
+LSTM: mae: 1051.8753 rmse: 1060.4458
+GRU: mae: 1118.4475 rmse: 1132.3761
+unit size: 8
+Bidirectional LSTM: mae: 1166.4569 rmse: 1171.7003
+LSTM: mae: 856.0796 rmse: 871.4670
+GRU: mae: 1202.6075 rmse: 1246.3919
+unit size: 16
+Bidirectional LSTM: mae: 693.8788 rmse: 698.1429
+LSTM: mae: 1049.2390 rmse: 1053.0965
+GRU: mae: 678.8254 rmse: 684.0363
+unit size: 32
+Bidirectional LSTM: mae: 689.6226 rmse: 699.3663
+LSTM: mae: 970.2657 rmse: 978.1693
+GRU: mae: 706.1311 rmse: 726.9802
+unit size: 50
+Bidirectional LSTM: mae: 725.5904 rmse: 739.8817
+LSTM: mae: 961.9506 rmse: 965.7803
+GRU: mae: 1065.4161 rmse: 1067.6870
+unit size: 64
+Bidirectional LSTM: mae: 769.1013 rmse: 772.1008
+LSTM: mae: 842.3092 rmse: 849.0037
+GRU: mae: 868.9619 rmse: 884.1930
+unit size: 100
+Bidirectional LSTM: mae: 718.7942 rmse: 725.3527
+LSTM: mae: 871.7549 rmse: 886.3834
+GRU: mae: 604.0677 rmse: 629.5199
+-------------------------------------
+data/taiex_ready_2004.csv
+unit size: 4
+X_train.shape:  (198, 1, 21)
+y_train.shape:  (198, 1)
+X_test.shape:  (49, 1, 21)
+y_test.shape:  (49, 1)
+Bidirectional LSTM: mae: 90.5533 rmse: 113.0363
+LSTM: mae: 97.4019 rmse: 123.5439
+GRU: mae: 138.0480 rmse: 171.1042
+unit size: 8
+Bidirectional LSTM: mae: 120.5272 rmse: 143.4913
+LSTM: mae: 113.3019 rmse: 127.6098
+GRU: mae: 188.9514 rmse: 209.1957
+unit size: 16
+Bidirectional LSTM: mae: 152.3818 rmse: 175.3927
+LSTM: mae: 93.0078 rmse: 122.5926
+GRU: mae: 103.5965 rmse: 133.3978
+unit size: 32
+Bidirectional LSTM: mae: 121.9738 rmse: 152.5927
+LSTM: mae: 99.0481 rmse: 120.4119
+GRU: mae: 146.4212 rmse: 179.1036
+unit size: 50
+Bidirectional LSTM: mae: 126.6164 rmse: 148.8811
+LSTM: mae: 120.3711 rmse: 145.5441
+GRU: mae: 108.5742 rmse: 134.9699
+unit size: 64
+Bidirectional LSTM: mae: 112.9623 rmse: 139.4663
+LSTM: mae: 115.3469 rmse: 135.8821
+GRU: mae: 89.5462 rmse: 114.8432
+unit size: 100
+Bidirectional LSTM: mae: 155.6908 rmse: 171.6508
+LSTM: mae: 113.0436 rmse: 135.6651
+GRU: mae: 113.6815 rmse: 141.2359
+-------------------------------------
+data/N225_fts.csv
+unit size: 4
+X_train.shape:  (1368, 1, 21)
+y_train.shape:  (1368, 1)
+X_test.shape:  (342, 1, 21)
+y_test.shape:  (342, 1)
+Bidirectional LSTM: mae: 669.3085 rmse: 1583.9792
+LSTM: mae: 1722.6072 rmse: 3073.5075
+GRU: mae: 1264.3235 rmse: 1871.7025
+unit size: 8
+Bidirectional LSTM: mae: 1257.4100 rmse: 3010.8697
+LSTM: mae: 1966.1383 rmse: 3648.4514
+GRU: mae: 1696.3897 rmse: 2852.2284
+unit size: 16
+Bidirectional LSTM: mae: 1274.0067 rmse: 3149.7779
+LSTM: mae: 1916.9149 rmse: 3444.6293
+GRU: mae: 1301.4267 rmse: 2397.5298
+unit size: 32
+Bidirectional LSTM: mae: 1259.6776 rmse: 2976.0223
+LSTM: mae: 1343.1394 rmse: 2367.6425
+GRU: mae: 1481.9577 rmse: 2299.6128
+unit size: 50
+Bidirectional LSTM: mae: 1046.5359 rmse: 2323.8200
+LSTM: mae: 1715.0534 rmse: 2981.3084
+GRU: mae: 1532.9087 rmse: 2338.6629
+unit size: 64
+Bidirectional LSTM: mae: 1380.2145 rmse: 3556.8497
+LSTM: mae: 1007.2611 rmse: 1549.8681
+GRU: mae: 1697.6328 rmse: 3549.5856
+unit size: 100
+Bidirectional LSTM: mae: 861.7111 rmse: 1866.9143
+LSTM: mae: 2170.2738 rmse: 3933.1340
+GRU: mae: 1528.3077 rmse: 2720.3189
+-------------------------------------
+data/covid_fts.csv
+unit size: 4
+X_train.shape:  (233, 1, 21)
+y_train.shape:  (233, 1)
+X_test.shape:  (58, 1, 21)
+y_test.shape:  (58, 1)
+Bidirectional LSTM: mae: 8.6043 rmse: 10.7422
+LSTM: mae: 8.8721 rmse: 11.2528
+GRU: mae: 8.0519 rmse: 9.3575
+unit size: 8
+Bidirectional LSTM: mae: 8.6238 rmse: 10.7426
+LSTM: mae: 9.2242 rmse: 11.6818
+GRU: mae: 6.1024 rmse: 7.4848
+unit size: 16
+Bidirectional LSTM: mae: 7.5996 rmse: 9.4829
+LSTM: mae: 9.0503 rmse: 11.2845
+GRU: mae: 6.3145 rmse: 7.1685
+unit size: 32
+Bidirectional LSTM: mae: 9.3971 rmse: 11.3624
+LSTM: mae: 8.9481 rmse: 11.2288
+GRU: mae: 7.4546 rmse: 8.4809
+unit size: 50
+Bidirectional LSTM: mae: 8.8058 rmse: 11.0229
+LSTM: mae: 9.2393 rmse: 11.4750
+GRU: mae: 7.6033 rmse: 8.5985
+unit size: 64
+Bidirectional LSTM: mae: 7.5936 rmse: 9.2513
+LSTM: mae: 8.1623 rmse: 9.9032
+GRU: mae: 5.2184 rmse: 6.3610
+unit size: 100
+Bidirectional LSTM: mae: 8.8082 rmse: 10.8895
+LSTM: mae: 9.9989 rmse: 12.5953
+GRU: mae: 4.9249 rmse: 6.0830
+-------------------------------------
+data/taiex_ready_99_03.csv
+unit size: 4
+X_train.shape:  (978, 1, 21)
+y_train.shape:  (978, 1)
+X_test.shape:  (244, 1, 21)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 659.0729 rmse: 813.1447
+LSTM: mae: 359.3524 rmse: 467.1127
+GRU: mae: 544.9732 rmse: 627.9773
+unit size: 8
+Bidirectional LSTM: mae: 464.3791 rmse: 595.1006
+LSTM: mae: 1006.5576 rmse: 1117.7814
+GRU: mae: 98.7590 rmse: 127.0115
+unit size: 16
+Bidirectional LSTM: mae: 72.8972 rmse: 91.4124
+LSTM: mae: 601.3416 rmse: 711.3445
+GRU: mae: 775.0494 rmse: 1088.9124
+unit size: 32
+Bidirectional LSTM: mae: 463.4101 rmse: 553.4266
+LSTM: mae: 969.4680 rmse: 1133.9011
+GRU: mae: 727.3970 rmse: 818.7665
+unit size: 50
+Bidirectional LSTM: mae: 414.9741 rmse: 539.2218
+LSTM: mae: 927.5934 rmse: 1017.8512
+GRU: mae: 396.6997 rmse: 507.4523
+unit size: 64
+Bidirectional LSTM: mae: 74.1166 rmse: 93.0728
+LSTM: mae: 777.2113 rmse: 848.1877
+GRU: mae: 728.9470 rmse: 795.0928
+unit size: 100
+Bidirectional LSTM: mae: 627.1135 rmse: 726.8386
+LSTM: mae: 788.9745 rmse: 892.2283
+GRU: mae: 500.7729 rmse: 548.2007
+-------------------------------------
+data/taiex_ready_99_04.csv
+unit size: 4
+X_train.shape:  (1178, 1, 21)
+y_train.shape:  (1178, 1)
+X_test.shape:  (294, 1, 21)
+y_test.shape:  (294, 1)
+Bidirectional LSTM: mae: 87.5316 rmse: 117.3047
+LSTM: mae: 216.0195 rmse: 283.9681
+GRU: mae: 286.3729 rmse: 313.5419
+unit size: 8
+Bidirectional LSTM: mae: 87.8697 rmse: 115.3251
+LSTM: mae: 235.9611 rmse: 271.8666
+GRU: mae: 350.8319 rmse: 390.6026
+unit size: 16
+Bidirectional LSTM: mae: 86.2149 rmse: 114.6514
+LSTM: mae: 104.9468 rmse: 130.6296
+GRU: mae: 261.0889 rmse: 345.3089
+unit size: 32
+Bidirectional LSTM: mae: 85.1888 rmse: 114.6132
+LSTM: mae: 228.9583 rmse: 289.3992
+GRU: mae: 261.4413 rmse: 301.9634
+unit size: 50
+Bidirectional LSTM: mae: 84.4674 rmse: 113.8905
+LSTM: mae: 166.5341 rmse: 205.6368
+GRU: mae: 222.1508 rmse: 325.8218
+unit size: 64
+Bidirectional LSTM: mae: 86.9070 rmse: 115.1031
+LSTM: mae: 200.0066 rmse: 284.4538
+GRU: mae: 512.1828 rmse: 584.1126
+unit size: 100
+Bidirectional LSTM: mae: 86.1173 rmse: 114.8178
+LSTM: mae: 164.8770 rmse: 224.2474
+GRU: mae: 219.0850 rmse: 277.3053

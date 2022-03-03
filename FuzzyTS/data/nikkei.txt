@@ -1,0 +1,414 @@
+-------------------------------------
+data/N225_G_5.csv
+unit size: 2
+X_train.shape:  (1466, 1, 6)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 6)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 180.0326 rmse: 248.6806
+LSTM: mae: 896.4850 rmse: 996.0066
+GRU: mae: 1024.8949 rmse: 1047.8854
+Test RMSE: 271.974
+unit size: 4
+Bidirectional LSTM: mae: 142.8738 rmse: 212.3398
+LSTM: mae: 419.1413 rmse: 491.5845
+GRU: mae: 576.0871 rmse: 621.1327
+Test RMSE: 117.385
+unit size: 8
+Bidirectional LSTM: mae: 160.0538 rmse: 232.7107
+LSTM: mae: 212.7872 rmse: 280.4843
+GRU: mae: 431.1734 rmse: 477.9762
+Test RMSE: 137.839
+unit size: 16
+Bidirectional LSTM: mae: 165.8802 rmse: 239.2855
+LSTM: mae: 135.2448 rmse: 201.1351
+GRU: mae: 577.2576 rmse: 609.7305
+Test RMSE: 122.034
+unit size: 32
+Bidirectional LSTM: mae: 169.7661 rmse: 242.7797
+LSTM: mae: 155.3563 rmse: 214.2550
+GRU: mae: 273.1166 rmse: 326.4386
+Test RMSE: 109.271
+unit size: 50
+Bidirectional LSTM: mae: 322.9752 rmse: 392.6206
+LSTM: mae: 553.8805 rmse: 588.0784
+GRU: mae: 172.5419 rmse: 242.0809
+Test RMSE: 183.302
+unit size: 64
+Bidirectional LSTM: mae: 281.0451 rmse: 347.8152
+LSTM: mae: 144.6750 rmse: 206.9666
+GRU: mae: 592.8439 rmse: 625.0652
+Test RMSE: 181.162
+unit size: 100
+Bidirectional LSTM: mae: 354.1948 rmse: 424.5697
+LSTM: mae: 497.8135 rmse: 538.7967
+GRU: mae: 660.3655 rmse: 700.4848
+Test RMSE: 188.498
+-------------------------------------
+data/N225_F_5.csv
+unit size: 2
+X_train.shape:  (1466, 1, 6)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 6)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 555.2218 rmse: 623.0825
+LSTM: mae: 849.5017 rmse: 1137.8883
+GRU: mae: 1226.0903 rmse: 1482.7613
+Test RMSE: 1091.472
+unit size: 4
+Bidirectional LSTM: mae: 1012.3556 rmse: 1108.7527
+LSTM: mae: 714.4728 rmse: 882.7618
+GRU: mae: 916.4896 rmse: 1280.9777
+Test RMSE: 1998.794
+unit size: 8
+Bidirectional LSTM: mae: 342.2787 rmse: 414.4146
+LSTM: mae: 902.0887 rmse: 1040.3632
+GRU: mae: 867.4374 rmse: 1018.0976
+Test RMSE: 757.474
+unit size: 16
+Bidirectional LSTM: mae: 447.2624 rmse: 520.4403
+LSTM: mae: 902.5671 rmse: 1042.0657
+GRU: mae: 564.0025 rmse: 694.9447
+Test RMSE: 957.460
+unit size: 32
+Bidirectional LSTM: mae: 493.3304 rmse: 588.0389
+LSTM: mae: 649.4275 rmse: 743.7131
+GRU: mae: 658.6612 rmse: 892.4560
+Test RMSE: 1128.350
+unit size: 50
+Bidirectional LSTM: mae: 363.4862 rmse: 456.2847
+LSTM: mae: 649.5256 rmse: 712.8902
+GRU: mae: 905.3835 rmse: 1057.0945
+Test RMSE: 871.612
+unit size: 64
+Bidirectional LSTM: mae: 383.8647 rmse: 485.5487
+LSTM: mae: 487.7527 rmse: 605.9795
+GRU: mae: 567.9638 rmse: 768.8477
+Test RMSE: 938.790
+unit size: 100
+Bidirectional LSTM: mae: 453.5603 rmse: 573.0571
+LSTM: mae: 516.8006 rmse: 587.3868
+GRU: mae: 558.7754 rmse: 666.9375
+Test RMSE: 1129.831
+-------------------------------------
+data/N225_H_5.csv
+unit size: 2
+X_train.shape:  (1466, 1, 6)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 6)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 280.6894 rmse: 352.0941
+LSTM: mae: 1272.3566 rmse: 1337.7924
+GRU: mae: 1185.9549 rmse: 1235.2972
+Test RMSE: 509.016
+unit size: 4
+Bidirectional LSTM: mae: 328.3912 rmse: 398.9569
+LSTM: mae: 949.2890 rmse: 1010.3306
+GRU: mae: 805.9708 rmse: 845.0004
+Test RMSE: 567.310
+unit size: 8
+Bidirectional LSTM: mae: 496.3358 rmse: 563.7118
+LSTM: mae: 826.0520 rmse: 879.2555
+GRU: mae: 548.1577 rmse: 586.2159
+Test RMSE: 794.378
+unit size: 16
+Bidirectional LSTM: mae: 474.1524 rmse: 534.5520
+LSTM: mae: 678.0942 rmse: 734.4816
+GRU: mae: 482.1835 rmse: 522.4648
+Test RMSE: 724.741
+unit size: 32
+Bidirectional LSTM: mae: 399.5576 rmse: 459.3728
+LSTM: mae: 504.4905 rmse: 566.7545
+GRU: mae: 297.0119 rmse: 356.0468
+Test RMSE: 602.028
+unit size: 50
+Bidirectional LSTM: mae: 141.5316 rmse: 199.9027
+LSTM: mae: 594.3151 rmse: 637.3637
+GRU: mae: 393.2439 rmse: 439.4048
+Test RMSE: 76.830
+unit size: 64
+Bidirectional LSTM: mae: 147.4776 rmse: 203.8558
+LSTM: mae: 262.4914 rmse: 326.5755
+GRU: mae: 354.4460 rmse: 404.7337
+Test RMSE: 78.438
+unit size: 100
+Bidirectional LSTM: mae: 137.1463 rmse: 197.8608
+LSTM: mae: 319.2907 rmse: 377.3915
+GRU: mae: 365.9908 rmse: 413.8637
+Test RMSE: 78.015
+-------------------------------------
+data/N225_G_9.csv
+unit size: 2
+X_train.shape:  (1466, 1, 10)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 10)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 137.2984 rmse: 202.3241
+LSTM: mae: 658.8768 rmse: 701.5343
+GRU: mae: 720.0925 rmse: 751.2815
+Test RMSE: 81.717
+unit size: 4
+Bidirectional LSTM: mae: 140.0062 rmse: 209.6501
+LSTM: mae: 316.6404 rmse: 376.8858
+GRU: mae: 583.5818 rmse: 614.7862
+Test RMSE: 108.387
+unit size: 8
+Bidirectional LSTM: mae: 163.6963 rmse: 236.9655
+LSTM: mae: 207.7586 rmse: 258.7136
+GRU: mae: 277.0485 rmse: 336.1006
+Test RMSE: 153.124
+unit size: 16
+Bidirectional LSTM: mae: 529.1916 rmse: 589.0632
+LSTM: mae: 165.3421 rmse: 238.4363
+GRU: mae: 380.8272 rmse: 427.4768
+Test RMSE: 716.995
+unit size: 32
+Bidirectional LSTM: mae: 136.1081 rmse: 203.6353
+LSTM: mae: 476.1328 rmse: 525.2497
+GRU: mae: 431.2080 rmse: 471.4771
+Test RMSE: 97.696
+unit size: 50
+Bidirectional LSTM: mae: 260.2658 rmse: 324.5762
+LSTM: mae: 163.4656 rmse: 230.8540
+GRU: mae: 1044.2743 rmse: 1069.9421
+Test RMSE: 237.290
+unit size: 64
+Bidirectional LSTM: mae: 219.3759 rmse: 289.6395
+LSTM: mae: 305.9461 rmse: 365.7717
+GRU: mae: 464.6773 rmse: 503.8650
+Test RMSE: 177.913
+unit size: 100
+Bidirectional LSTM: mae: 155.0680 rmse: 227.0687
+LSTM: mae: 359.6849 rmse: 411.4408
+GRU: mae: 210.2311 rmse: 289.4337
+Test RMSE: 110.042
+-------------------------------------
+data/N225_F_9.csv
+unit size: 2
+X_train.shape:  (1466, 1, 10)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 10)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 404.8231 rmse: 539.5143
+LSTM: mae: 1083.8178 rmse: 1225.3808
+GRU: mae: 1291.7813 rmse: 1457.9815
+Test RMSE: 1169.326
+unit size: 4
+Bidirectional LSTM: mae: 324.4291 rmse: 434.8424
+LSTM: mae: 578.0747 rmse: 804.7871
+GRU: mae: 672.8518 rmse: 895.4560
+Test RMSE: 911.359
+unit size: 8
+Bidirectional LSTM: mae: 341.1141 rmse: 455.1496
+LSTM: mae: 588.7852 rmse: 813.5886
+GRU: mae: 551.4960 rmse: 765.9781
+Test RMSE: 956.855
+unit size: 16
+Bidirectional LSTM: mae: 317.8521 rmse: 413.1295
+LSTM: mae: 503.2123 rmse: 694.9047
+GRU: mae: 518.8040 rmse: 695.1150
+Test RMSE: 825.143
+unit size: 32
+Bidirectional LSTM: mae: 291.5005 rmse: 375.7845
+LSTM: mae: 434.5297 rmse: 580.8717
+GRU: mae: 500.5202 rmse: 677.7599
+Test RMSE: 706.740
+unit size: 50
+Bidirectional LSTM: mae: 376.2429 rmse: 497.2540
+LSTM: mae: 435.9146 rmse: 590.4601
+GRU: mae: 396.7472 rmse: 529.2138
+Test RMSE: 1032.738
+unit size: 64
+Bidirectional LSTM: mae: 399.9516 rmse: 525.5167
+LSTM: mae: 450.5197 rmse: 588.5189
+GRU: mae: 401.8919 rmse: 522.5767
+Test RMSE: 1088.011
+unit size: 100
+Bidirectional LSTM: mae: 341.0145 rmse: 454.5341
+LSTM: mae: 552.2531 rmse: 714.2712
+GRU: mae: 422.5680 rmse: 524.9462
+Test RMSE: 960.875
+-------------------------------------
+data/N225_H_9.csv
+unit size: 2
+X_train.shape:  (1466, 1, 10)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 10)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 400.6400 rmse: 487.2068
+LSTM: mae: 1309.3721 rmse: 1390.1438
+GRU: mae: 1303.6477 rmse: 1344.0523
+Test RMSE: 763.255
+unit size: 4
+Bidirectional LSTM: mae: 520.9677 rmse: 595.1478
+LSTM: mae: 1040.2285 rmse: 1102.8906
+GRU: mae: 719.8804 rmse: 778.0287
+Test RMSE: 863.162
+unit size: 8
+Bidirectional LSTM: mae: 474.1951 rmse: 541.9840
+LSTM: mae: 681.3380 rmse: 734.6420
+GRU: mae: 387.5462 rmse: 440.3481
+Test RMSE: 763.703
+unit size: 16
+Bidirectional LSTM: mae: 440.6170 rmse: 501.9365
+LSTM: mae: 559.1426 rmse: 618.9488
+GRU: mae: 655.4666 rmse: 690.0162
+Test RMSE: 678.345
+unit size: 32
+Bidirectional LSTM: mae: 392.6485 rmse: 451.4694
+LSTM: mae: 507.4261 rmse: 564.6305
+GRU: mae: 640.0358 rmse: 672.7260
+Test RMSE: 584.226
+unit size: 50
+Bidirectional LSTM: mae: 141.0079 rmse: 199.5637
+LSTM: mae: 543.0756 rmse: 590.4168
+GRU: mae: 262.5411 rmse: 323.1387
+Test RMSE: 77.067
+unit size: 64
+Bidirectional LSTM: mae: 146.9858 rmse: 203.4956
+LSTM: mae: 398.0654 rmse: 460.4184
+GRU: mae: 305.6575 rmse: 361.0572
+Test RMSE: 78.149
+unit size: 100
+Bidirectional LSTM: mae: 136.0115 rmse: 197.5895
+LSTM: mae: 245.5002 rmse: 307.6251
+GRU: mae: 547.2996 rmse: 581.6279
+Test RMSE: 78.972
+-------------------------------------
+data/N225_G_10.csv
+unit size: 2
+X_train.shape:  (1466, 1, 11)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 11)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 143.2871 rmse: 211.8906
+LSTM: mae: 532.6040 rmse: 647.9227
+GRU: mae: 750.2218 rmse: 799.4718
+Test RMSE: 183.966
+unit size: 4
+Bidirectional LSTM: mae: 175.2430 rmse: 248.2535
+LSTM: mae: 348.1199 rmse: 432.9830
+GRU: mae: 466.3695 rmse: 507.1787
+Test RMSE: 124.907
+unit size: 8
+Bidirectional LSTM: mae: 155.7615 rmse: 228.1915
+LSTM: mae: 209.7581 rmse: 276.9264
+GRU: mae: 519.9947 rmse: 560.6565
+Test RMSE: 133.926
+unit size: 16
+Bidirectional LSTM: mae: 161.5197 rmse: 234.3943
+LSTM: mae: 201.6654 rmse: 271.3838
+GRU: mae: 148.6452 rmse: 220.0376
+Test RMSE: 135.987
+unit size: 32
+Bidirectional LSTM: mae: 165.2704 rmse: 224.1030
+LSTM: mae: 133.7060 rmse: 199.4807
+GRU: mae: 355.3028 rmse: 394.0426
+Test RMSE: 120.911
+unit size: 50
+Bidirectional LSTM: mae: 238.9387 rmse: 308.9207
+LSTM: mae: 510.3292 rmse: 551.9953
+GRU: mae: 605.2840 rmse: 687.3299
+Test RMSE: 193.249
+unit size: 64
+Bidirectional LSTM: mae: 750.9714 rmse: 779.5623
+LSTM: mae: 510.0917 rmse: 546.0968
+GRU: mae: 1068.8316 rmse: 1102.8119
+Test RMSE: 726.471
+unit size: 100
+Bidirectional LSTM: mae: 492.4399 rmse: 529.4626
+LSTM: mae: 682.1136 rmse: 715.1584
+GRU: mae: 1419.7660 rmse: 1446.5781
+Test RMSE: 554.508
+-------------------------------------
+data/N225_F_10.csv
+unit size: 2
+X_train.shape:  (1466, 1, 11)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 11)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 311.9007 rmse: 426.1739
+LSTM: mae: 797.7898 rmse: 972.6624
+GRU: mae: 1266.0494 rmse: 1353.9733
+Test RMSE: 911.234
+unit size: 4
+Bidirectional LSTM: mae: 341.4065 rmse: 472.3237
+LSTM: mae: 582.9251 rmse: 832.5740
+GRU: mae: 612.5259 rmse: 828.1948
+Test RMSE: 1037.867
+unit size: 8
+Bidirectional LSTM: mae: 312.6625 rmse: 419.6863
+LSTM: mae: 518.2235 rmse: 731.8011
+GRU: mae: 456.5074 rmse: 607.2809
+Test RMSE: 880.324
+unit size: 16
+Bidirectional LSTM: mae: 307.5978 rmse: 402.8654
+LSTM: mae: 482.3747 rmse: 653.0910
+GRU: mae: 485.1722 rmse: 665.0993
+Test RMSE: 802.796
+unit size: 32
+Bidirectional LSTM: mae: 812.3717 rmse: 917.9322
+LSTM: mae: 486.1008 rmse: 667.3243
+GRU: mae: 438.3949 rmse: 590.4274
+Test RMSE: 1592.852
+unit size: 50
+Bidirectional LSTM: mae: 389.7859 rmse: 521.6226
+LSTM: mae: 401.8548 rmse: 549.2257
+GRU: mae: 755.8366 rmse: 863.9115
+Test RMSE: 1118.986
+unit size: 64
+Bidirectional LSTM: mae: 951.0755 rmse: 1043.4417
+LSTM: mae: 370.3831 rmse: 537.1933
+GRU: mae: 486.6866 rmse: 651.9911
+Test RMSE: 1750.840
+unit size: 100
+Bidirectional LSTM: mae: 354.1404 rmse: 467.8415
+LSTM: mae: 761.0830 rmse: 902.6941
+GRU: mae: 372.2747 rmse: 495.0729
+Test RMSE: 965.647
+-------------------------------------
+data/N225_H_10.csv
+unit size: 2
+X_train.shape:  (1466, 1, 11)
+y_train.shape:  (1466, 1)
+X_test.shape:  (244, 1, 11)
+y_test.shape:  (244, 1)
+Bidirectional LSTM: mae: 304.4757 rmse: 380.4597
+LSTM: mae: 1224.1107 rmse: 1293.3929
+GRU: mae: 1315.6979 rmse: 1353.7782
+Test RMSE: 574.889
+unit size: 4
+Bidirectional LSTM: mae: 574.0152 rmse: 647.6697
+LSTM: mae: 815.5928 rmse: 876.2672
+GRU: mae: 765.3880 rmse: 801.0162
+Test RMSE: 937.459
+unit size: 8
+Bidirectional LSTM: mae: 453.4808 rmse: 519.2515
+LSTM: mae: 752.0251 rmse: 808.9373
+GRU: mae: 564.6641 rmse: 608.7696
+Test RMSE: 722.253
+unit size: 16
+Bidirectional LSTM: mae: 431.6760 rmse: 492.6235
+LSTM: mae: 313.4060 rmse: 374.0401
+GRU: mae: 393.9185 rmse: 445.2879
+Test RMSE: 662.267
+unit size: 32
+Bidirectional LSTM: mae: 326.1473 rmse: 386.9026
+LSTM: mae: 509.5589 rmse: 568.6832
+GRU: mae: 422.4024 rmse: 466.7560
+Test RMSE: 479.518
+unit size: 50
+Bidirectional LSTM: mae: 140.2978 rmse: 199.1527
+LSTM: mae: 580.7199 rmse: 629.6187
+GRU: mae: 379.1783 rmse: 426.5328
+Test RMSE: 77.458
+unit size: 64
+Bidirectional LSTM: mae: 149.3881 rmse: 205.2695
+LSTM: mae: 456.8603 rmse: 509.2891
+GRU: mae: 375.1602 rmse: 422.8024
+Test RMSE: 79.482
+unit size: 100
+Bidirectional LSTM: mae: 138.5253 rmse: 206.6031
+LSTM: mae: 464.2675 rmse: 503.3693
+GRU: mae: 339.5114 rmse: 390.8432
+Test RMSE: 99.567

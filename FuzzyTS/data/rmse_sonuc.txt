@@ -1,0 +1,390 @@
+filename="data/taiex_ready_99_03.csv"
+
+X_train.shape:  (978, 1, 21)
+y_train.shape:  (978, 1)
+X_test.shape:  (244, 1, 21)
+y_test.shape:  (244, 1)
+
+
+-------------------------------------------
+number of units = 4
+
+Bidirectional LSTM:
+Mean Absolute Error: 650.5479
+Root Mean Square Error: 803.2909
+
+LSTM:
+Mean Absolute Error: 930.2250
+Root Mean Square Error: 992.2407
+
+GRU:
+Mean Absolute Error: 638.6856
+Root Mean Square Error: 760.5991
+
+-------------------------------------------
+number of units = 8
+
+
+Bidirectional LSTM:
+Mean Absolute Error: 76.4181
+Root Mean Square Error: 95.6820
+
+LSTM:
+Mean Absolute Error: 79.7328
+Root Mean Square Error: 103.7439
+
+GRU:
+Mean Absolute Error: 81.5586
+Root Mean Square Error: 104.2965
+-------------------------------------------
+number of units = 16
+
+Bidirectional LSTM:
+Mean Absolute Error: 84.4235
+Root Mean Square Error: 104.3913
+
+LSTM:
+Mean Absolute Error: 77.3033
+Root Mean Square Error: 100.2588
+
+GRU:
+Mean Absolute Error: 76.9663
+Root Mean Square Error: 99.5890
+-------------------------------------------
+number of units = 32
+
+Bidirectional LSTM:
+Mean Absolute Error: 76.1726
+Root Mean Square Error: 95.5936
+
+LSTM:
+Mean Absolute Error: 75.8628
+Root Mean Square Error: 95.1889
+
+GRU:
+Mean Absolute Error: 91.2114
+Root Mean Square Error: 112.7751
+-------------------------------------------
+number of units = 50
+
+Bidirectional LSTM:
+Mean Absolute Error: 94.4835
+Root Mean Square Error: 115.4338
+
+LSTM:
+Mean Absolute Error: 77.2985
+Root Mean Square Error: 98.8811
+
+GRU:
+Mean Absolute Error: 72.7140
+Root Mean Square Error: 91.9928
+-------------------------------------------
+number of units = 64
+
+Bidirectional LSTM:
+Mean Absolute Error: 99.2593
+Root Mean Square Error: 120.6203
+
+LSTM:
+Mean Absolute Error: 78.6437
+Root Mean Square Error: 97.9338
+
+GRU:
+Mean Absolute Error: 101.4408
+Root Mean Square Error: 122.7739
+
+****************************************************
+
+filename="data/taiex_ready_99_04.csv"
+X_train.shape:  (1178, 1, 21)
+y_train.shape:  (1178, 1)
+X_test.shape:  (294, 1, 21)
+y_test.shape:  (294, 1)
+-------------------------------------------
+number of units = 4
+
+Bidirectional LSTM:
+Mean Absolute Error: 87.6936
+Root Mean Square Error: 115.9033
+
+LSTM:
+Mean Absolute Error: 177.0122
+Root Mean Square Error: 242.8661
+
+GRU:
+Mean Absolute Error: 116.0696
+Root Mean Square Error: 142.3351
+
+-------------------------------------------
+number of units = 8
+
+Bidirectional LSTM:
+Mean Absolute Error: 88.7137
+Root Mean Square Error: 116.3034
+
+LSTM:
+Mean Absolute Error: 88.1814
+Root Mean Square Error: 115.6819
+
+GRU:
+Mean Absolute Error: 107.5749
+Root Mean Square Error: 133.8681
+-------------------------------------------
+number of units = 16
+
+Bidirectional LSTM:
+Mean Absolute Error: 90.6059
+Root Mean Square Error: 117.4765
+
+LSTM:
+Mean Absolute Error: 139.1125
+Root Mean Square Error: 163.8485
+
+GRU:
+Mean Absolute Error: 96.5172
+Root Mean Square Error: 123.2879
+
+-------------------------------------------
+number of units = 32
+
+Bidirectional LSTM:
+Mean Absolute Error: 94.2459
+Root Mean Square Error: 120.7496
+
+LSTM:
+Mean Absolute Error: 88.4546
+Root Mean Square Error: 118.7240
+
+GRU:
+Mean Absolute Error: 114.6673
+Root Mean Square Error: 139.3593
+
+-------------------------------------------
+number of units = 50
+
+Bidirectional LSTM:
+Mean Absolute Error: 96.0590
+Root Mean Square Error: 122.5793
+
+LSTM:
+Mean Absolute Error: 98.9178
+Root Mean Square Error: 125.3026
+
+GRU:
+Mean Absolute Error: 131.4498
+Root Mean Square Error: 159.0080
+
+-------------------------------------------
+number of units = 64
+
+Bidirectional LSTM:
+Mean Absolute Error: 100.5581
+Root Mean Square Error: 126.5240
+
+LSTM:
+Mean Absolute Error: 92.0640
+Root Mean Square Error: 119.7255
+
+GRU:
+Mean Absolute Error: 164.5985
+Root Mean Square Error: 186.1582
+
+
+covid!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+X_train.shape:  (233, 1, 21)
+y_train.shape:  (233, 1)
+X_test.shape:  (58, 1, 21)
+y_test.shape:  (58, 1)
+-------------------------------------------
+number of units = 4
+
+Bidirectional LSTM:
+Mean Absolute Error: 8.8974
+Root Mean Square Error: 11.0675
+
+LSTM:
+Mean Absolute Error: 8.6642
+Root Mean Square Error: 10.9423
+
+GRU:
+Mean Absolute Error: 8.1744
+Root Mean Square Error: 9.8617
+
+-------------------------------------------
+number of units = 8
+
+Bidirectional LSTM:
+Mean Absolute Error: 6.2278
+Root Mean Square Error: 7.4333
+
+LSTM:
+Mean Absolute Error: 7.7001
+Root Mean Square Error: 9.6227
+
+GRU:
+Mean Absolute Error: 7.7754
+Root Mean Square Error: 9.2045
+-------------------------------------------
+number of units = 16
+
+Bidirectional LSTM:
+Mean Absolute Error: 6.6097
+Root Mean Square Error: 7.7219
+
+LSTM:
+Mean Absolute Error: 7.0737
+Root Mean Square Error: 8.5658
+
+GRU:
+Mean Absolute Error: 6.0915
+Root Mean Square Error: 7.2052
+
+-------------------------------------------
+number of units = 32
+
+Bidirectional LSTM:
+Mean Absolute Error: 2.4553
+Root Mean Square Error: 3.3170
+
+LSTM:
+Mean Absolute Error: 4.9847
+Root Mean Square Error: 5.3697
+
+GRU:
+Mean Absolute Error: 3.7523
+Root Mean Square Error: 4.4380
+
+
+-------------------------------------------
+number of units = 50
+
+
+Bidirectional LSTM:
+Mean Absolute Error: 2.2771
+Root Mean Square Error: 2.8063
+
+LSTM:
+Mean Absolute Error: 3.6230
+Root Mean Square Error: 4.1849
+
+GRU:
+Mean Absolute Error: 3.2302
+Root Mean Square Error: 3.8992
+
+
+-------------------------------------------
+number of units = 64
+
+
+Bidirectional LSTM:
+Mean Absolute Error: 2.2132
+Root Mean Square Error: 2.8904
+
+LSTM:
+Mean Absolute Error: 2.2237
+Root Mean Square Error: 2.8291
+
+GRU:
+Mean Absolute Error: 2.1389
+Root Mean Square Error: 2.8007
+
+
+Nikkei225!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+X_train.shape:  (1368, 1, 21)
+y_train.shape:  (1368, 1)
+X_test.shape:  (342, 1, 21)
+y_test.shape:  (342, 1)
+
+-------------------------------------------
+number of units = 4
+
+
+Bidirectional LSTM:
+Mean Absolute Error: 1030.9969
+Root Mean Square Error: 2438.2713
+
+LSTM:
+Mean Absolute Error: 1467.5673
+Root Mean Square Error: 2617.7698
+
+GRU:
+Mean Absolute Error: 919.6719
+Root Mean Square Error: 1783.5776
+
+-------------------------------------------
+number of units = 8
+
+Bidirectional LSTM:
+Mean Absolute Error: 975.1090
+Root Mean Square Error: 2238.0127
+
+LSTM:
+Mean Absolute Error: 1241.9630
+Root Mean Square Error: 2407.3712
+
+GRU:
+Mean Absolute Error: 1194.8819
+Root Mean Square Error: 2110.5903
+
+-------------------------------------------
+number of units = 16
+
+Bidirectional LSTM:
+Mean Absolute Error: 850.7051
+Root Mean Square Error: 1930.7709
+
+LSTM:
+Mean Absolute Error: 1034.4415
+Root Mean Square Error: 2402.1157
+
+GRU:
+Mean Absolute Error: 770.3394
+Root Mean Square Error: 1571.5476
+
+
+-------------------------------------------
+number of units = 32
+
+Bidirectional LSTM:
+Mean Absolute Error: 881.7383
+Root Mean Square Error: 1303.3868
+
+LSTM:
+Mean Absolute Error: 931.1777
+Root Mean Square Error: 1941.3417
+
+GRU:
+Mean Absolute Error: 1135.1173
+Root Mean Square Error: 2530.1214
+
+-------------------------------------------
+number of units = 50
+
+Bidirectional LSTM:
+Mean Absolute Error: 787.4451
+Root Mean Square Error: 1519.8854
+
+LSTM:
+Mean Absolute Error: 1035.0920
+Root Mean Square Error: 1670.8522
+
+GRU:
+Mean Absolute Error: 1470.0065
+Root Mean Square Error: 2559.3939
+
+
+-------------------------------------------
+number of units = 64
+
+Bidirectional LSTM:
+Mean Absolute Error: 1210.6677
+Root Mean Square Error: 1934.9174
+
+LSTM:
+Mean Absolute Error: 880.8063
+Root Mean Square Error: 1901.2193
+
+GRU:
+Mean Absolute Error: 1395.8211
+Root Mean Square Error: 1989.1582
